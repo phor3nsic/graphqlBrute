@@ -45,7 +45,6 @@ def checkGET(obj):
 
 def checkPOST(obj):
 	obj = obj.replace("\n","")
-	print(URL)
 	payload = """query{
 					%s{
 						__typename
