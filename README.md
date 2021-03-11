@@ -1,4 +1,4 @@
-# <p align="center" width="100px" heigth="100px">![](img/banner.png)</p>
+# <p align="center" width="100px" heigth="100px">![](imgs/banner.png)</p>
 
 ### RUN
 
