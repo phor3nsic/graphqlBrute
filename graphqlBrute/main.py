@@ -84,8 +84,7 @@ def construct(obj, nvl):
 	scheme = obj + scheme
 	print(scheme)
 
-if __name__ == '__main__':
-
+def main():
 	print(banner)
 
 	if METHOD == "POST":
@@ -103,3 +102,7 @@ if __name__ == '__main__':
 			sys.exit()
 	else:
 		print("[?] Method not found\n- Methods accepted: GET or POST")
+
+if __name__ == '__main__':
+
+	main()
