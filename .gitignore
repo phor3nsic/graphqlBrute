@@ -1,3 +1,6 @@
-.DS_Store
-.vscode/
-.vscode/*
+*venv*
+venv/*
+build/*
+*build*
+*graphqlBrute.egg-info*
+graphqlBrute.egg-info/*
